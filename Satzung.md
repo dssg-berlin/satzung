@@ -33,7 +33,7 @@ Der Verein verpflichtet sich, bei vom Verein organisierten Veranstaltungen eine 
     4. die regelmäßige Selbstinformation über die Aktivitäten des Vereins,
     5. und Tätigkeiten zur Förderung des Vereinslebens gehören.
 
-§ 6 Mitgliedsbeiträge
+## § 6 Mitgliedsbeiträge
 
 1. Es werden keine Mitgliedsbeiträge fällig.
 
@@ -48,6 +48,7 @@ Der Verein verpflichtet sich, bei vom Verein organisierten Veranstaltungen eine 
 ## § 8 Organe des Vereins
 
 Vereinsorgane sind:
+
 1. der Vorstand,
 2. die Mitgliederversammlung.
 
