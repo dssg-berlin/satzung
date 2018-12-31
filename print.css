@@ -1,0 +1,33 @@
+/* General styles */
+
+body {
+    font-family: "Open Sans", Arial, Helvetica, sans-serif
+}
+
+h1 {
+    text-align: center;
+    margin-top: .1em;
+}
+
+h2 {
+    margin-top: 1.5em;
+    page-break-after: avoid;
+}
+
+li {
+    margin-top: .5em;
+    margin-bottom: .5em;
+}
+
+/* (1) list style */
+
+body > ol {list-style: none; counter-reset: li}
+
+body > ol > li::before {
+    content: "(" counter(li) ")";
+    display: inline-block;
+    width: 1.8em;
+    margin-left: -1.8em;
+}
+
+body > ol > li {counter-increment: li}
