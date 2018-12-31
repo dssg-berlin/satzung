@@ -35,7 +35,7 @@ Der Verein verpflichtet sich, bei vom Verein organisierten Veranstaltungen eine 
 
 § 6 Mitgliedsbeiträge
 
-(1) Es werden keine Mitgliedsbeiträge fällig.
+1. Es werden keine Mitgliedsbeiträge fällig.
 
 ## § 7 Erlöschen der Mitgliedschaft
 
