@@ -8,6 +8,9 @@ For simple printing use https://gitprint.com/dssg-berlin/satzung/blob/master/Sat
 
     brew install pandoc
     brew cask install wkhtmltopdf
+
+Then
+
     make
 
-Creates a Satzung.pdf
+Creates a [Satzung.pdf](Satzung.pdf)
