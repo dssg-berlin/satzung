@@ -45,13 +45,13 @@ Der Verein verpflichtet sich, bei vom Verein organisierten Veranstaltungen eine 
 4. Vor der Beschlussfassung ist dem Mitglied unter Fristsetzung von Seiten des Vorstandes Gelegenheit zu geben, sich zu äußern. Der Beschluss über den Ausschluss ist mit Gründen zu versehen und dem auszuschließenden Mitglied schriftlich bekannt zu machen.
 5. Gegen den Ausschluss steht dem Mitglied die Berufung an die Mitgliederversammlung zu, die schriftlich binnen eines Monats an den Vorstand zu richten ist. Entscheidend für die Einhaltung der Frist ist das Datum des Poststempels. Die Mitgliederversammlung entscheidet im Rahmen des Vereins endgültig.
 
-§ 8 Organe des Vereins
+## § 8 Organe des Vereins
 
 Vereinsorgane sind:
 1. der Vorstand,
 2. die Mitgliederversammlung.
 
-§ 9 Vorstand
+## § 9 Vorstand
 
 1. Dem Vorstand obliegt die Geschäftsführung von “DSSG Berlin e.V.” und die Erfüllung der von der Mitgliederversammlung übertragenen Aufgaben.
 2. Der Vorstand besteht i. S. d. § 26 BGB aus 3 Mitgliedern. Diese sind:
@@ -61,7 +61,7 @@ Vereinsorgane sind:
 3. Der Vorstand i. S. d. §26 BGB führt die Geschäfte des Vereins. Jeweils zwei Mitglieder des Vorstandes sind gemeinsam zur Vertretung des Vereins berechtigt. Der Vorstand ist für alle Vereinsangelegenheiten zuständig, soweit diese nicht durch die Satzung, Gesetz oder Rechtsprechung einem anderen Vereinsorgan übertragen sind.
 4. Der Vorstand kann sich eine Geschäftsordnung geben.
 
-§ 10 Aufgaben und Zuständigkeit des Vorstands
+## § 10 Aufgaben und Zuständigkeit des Vorstands
 
 1. Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie nicht einem anderen Organ durch die Satzung zugewiesen sind. Zu den Aufgaben des Vorstands zählen insbesondere die
     1. Vorbereitung, Einberufung und Leitung der Mitgliederversammlung sowie Aufstellung der Tagesordnung
@@ -73,13 +73,13 @@ Vereinsorgane sind:
 2. Zur Erfüllung der Vereinsaufgaben kann der Vorstand hauptamtliche MitarbeiterInnen einstellen. Die Aufgaben und Befugnisse dieser MitarbeiterInnen bestimmt der Vorstand.
 3. Hauptamtliche MitarbeiterInnen dürfen keine Wahlfunktionen ausüben.
 
-§ 11 Wahl und Amtsdauer des Vorstands
+## § 11 Wahl und Amtsdauer des Vorstands
 
 1. Der Vorstand wird von der Mitgliederversammlung gewählt. Vorstandsmitglieder können nur Mitglieder des Vereins werden. Die Mitglieder des Vorstands werden für die Zeit von einem Jahr gewählt. Der Vorstand bleibt bis zu einer Neuwahl im Amt.
 2. Eine Wiederwahl ist zulässig.
 3. Mit Beendigung der Mitgliedschaft im Verein endet auch das Amt als Vorstandsmitglied.
 
-§ 12 Mitgliederversammlung
+## § 12 Mitgliederversammlung
 
 1. Im ersten Halbjahr des Geschäftsjahres wird durch den Vorstand unter Einhaltung einer Frist von zwei Wochen eine Mitgliederversammlung einberufen. Die Einladung erfolgt unter Angabe einer Tagesordnung schriftlich oder per Email an die letztbekannte Anschrift bzw. Email‐Adresse. Die Frist beginnt mit dem Tag des Poststempels bzw. der Absendung.
 2. Die Tagesordnung ist zu ergänzen, wenn dies ein Mitglied bis spätestens eine Woche vor dem angesetzten Termin schriftlich beantragt. Die Ergänzung ist allen Mitgliedern schriftlich oder per Email zeitnah bekanntzumachen. Auf Antrag kann die Tagesordnung mit einfacher Mehrheit auch während der Sitzung ergänzt werden.
@@ -95,12 +95,12 @@ Vereinsorgane sind:
     4. Behandlung und Abstimmung von Anträgen
     5. weitere Aufgaben, soweit sich diese aus der Satzung oder nach dem Gesetz ergeben.
 
-§ 13 Protokollierung
+## § 13 Protokollierung
 
 1. Über vereinsinterne Wahlen jeglicher Art und Beschlüsse von Mitgliederversammlungen und Vorstandssitzungen ist Protokoll zu führen. Protokolle sind durch ein Vorstandsmitglied und die protokollführende Person zu unterzeichnen.
 2. Das Protokoll ist den Mitgliedern schriftlich bekanntzumachen.
 
-§ 14 Auflösung des Vereins
+## § 14 Auflösung des Vereins
 
 1. Der Verein kann sich mit 2/3-Mehrheit auf der Mitgliederversammlung auflösen.
 2. Wird mit der Auflösung des Vereins nur eine Änderung der Rechtsform oder eine Verschmelzung mit einem gleichartigen, anderen Verein angestrebt, so dass die unmittelbare, ausschließliche Verfolgung des bisherigen Vereinszwecks durch den neuen Rechtsträger weiterhin gewährleistet wird, geht das Vereinsvermögen auf den neuen Rechtsträger über. Vor Durchführung ist das Finanzamt hierzu zu hören.
