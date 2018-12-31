@@ -8,8 +8,8 @@
 
 ## § 2 Zweck, Aufgaben und Neutralität
 
-1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige und mildtätige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
-2. Zweck des Vereins ist die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe sowie die Förderung des bürgerschaftlichen Engagements.
+1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
+2. Zweck des Vereins ist die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe sowie die Förderung des bürgerschaftlichen Engagements zugunsten des vorgenannten gemeinnützigen Zwecks.
 3. Der Satzungszweck wird verwirklicht insbesondere durch die Durchführung von Fortbildungen im Bereich Datenanalyse für Menschen, die sich bei gemeinnützigen Organisationen engagieren. Neulingen und Interessierten im Bereich der Datenanalyse ermöglicht der Verein, ihr theoretisches Wissen in einem fachlich betreuten Umfeld praktisch anzuwenden und zu erweitern.
 4. Der Verein ist politisch, ethnisch und konfessionell neutral.
 
