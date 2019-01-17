@@ -8,8 +8,8 @@
 
 ## § 2 Zweck, Aufgaben und Neutralität
 
-1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige und mildtätige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
-2. Zweck des Vereins ist die Förderung des bürgerschaftlichen Engagements zugunsten gemeinnütziger und mildtätiger Zwecke sowie die Förderung der Bildung.
+1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
+2. Zweck des Vereins ist die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe sowie die Förderung des bürgerschaftlichen Engagements zugunsten des vorgenannten gemeinnützigen Zwecks.
 3. Der Satzungszweck wird verwirklicht insbesondere durch die Durchführung von Fortbildungen im Bereich Datenanalyse für Menschen, die sich bei gemeinnützigen Organisationen engagieren. Neulingen und Interessierten im Bereich der Datenanalyse ermöglicht der Verein, ihr theoretisches Wissen in einem fachlich betreuten Umfeld praktisch anzuwenden und zu erweitern.
 4. Der Verein ist politisch, ethnisch und konfessionell neutral.
 
@@ -25,7 +25,7 @@ Der Verein verpflichtet sich, bei vom Verein organisierten Veranstaltungen eine 
 
 ## § 5 Mitgliedschaft
 
-1. Vereinsmitglied kann jede natürliche Person werden. Mitglieder erlangen die Mitgliedschaft durch einen schriftlichen Aufnahmeantrag, über den der Vorstand mit einfacher Mehrheit entscheidet. Bei Ablehnung des Aufnahmegesuchs ist der Vorstand nicht verpflichtet, die Ablehnungsgründe mitzuteilen.
+1. Vereinsmitglied kann jede natürliche Person werden. Mitglieder erlangen die Mitgliedschaft durch einen schriftlichen Aufnahmeantrag (auch per Email an die offizielle Email-Adresse des Vereins), über den der Vorstand mit einfacher Mehrheit entscheidet. Bei Ablehnung des Aufnahmegesuchs ist der Vorstand nicht verpflichtet, die Ablehnungsgründe mitzuteilen.
 2. Das Vereinsmitglied verpflichtet sich innerhalb des Vereins
     1. nach Möglichkeit regelmäßig an stattfindenden Mitgliederversammlungen teilzunehmen,
     2. zur aktiven Mitwirkung an Vereinstätigkeiten,
@@ -40,7 +40,7 @@ Der Verein verpflichtet sich, bei vom Verein organisierten Veranstaltungen eine 
 ## § 7 Erlöschen der Mitgliedschaft
 
 1. Die Mitgliedschaft endet durch freiwilligen Austritt, Ausschluss aus dem Verein, Tod des Mitglieds, ferner bei Auflösung des Vereins.
-2. Der Austritt ist jederzeit zum Monatsende durch eine schriftliche Erklärung gegenüber dem Vorstand möglich.
+2. Der Austritt ist jederzeit zum Monatsende durch eine schriftliche Erklärung (auch per Email an die offizielle Email-Adresse des Vereins) gegenüber dem Vorstand möglich.
 3. Ein Mitglied kann durch Vorstandsbeschluss mit einfacher Mehrheit der anwesenden Vorstandsmitglieder ausgeschlossen werden, wenn es in grober Weise gegen die Vereinsinteressen, Satzungsinhalte oder Mitgliedsverpflichtungen gemäß §5 (2) verstoßen hat.
 4. Vor der Beschlussfassung ist dem Mitglied unter Fristsetzung von Seiten des Vorstandes Gelegenheit zu geben, sich zu äußern. Der Beschluss über den Ausschluss ist mit Gründen zu versehen und dem auszuschließenden Mitglied schriftlich bekannt zu machen.
 5. Gegen den Ausschluss steht dem Mitglied die Berufung an die Mitgliederversammlung zu, die schriftlich binnen eines Monats an den Vorstand zu richten ist. Entscheidend für die Einhaltung der Frist ist das Datum des Poststempels. Die Mitgliederversammlung entscheidet im Rahmen des Vereins endgültig.
@@ -99,11 +99,11 @@ Vereinsorgane sind:
 ## § 13 Protokollierung
 
 1. Über vereinsinterne Wahlen jeglicher Art und Beschlüsse von Mitgliederversammlungen und Vorstandssitzungen ist Protokoll zu führen. Protokolle sind durch ein Vorstandsmitglied und die protokollführende Person zu unterzeichnen.
-2. Das Protokoll ist den Mitgliedern schriftlich bekanntzumachen.
+2. Das Protokoll ist den Mitgliedern schriftlich oder per Email bekanntzumachen.
 
 ## § 14 Auflösung des Vereins
 
 1. Der Verein kann sich mit 2/3-Mehrheit auf der Mitgliederversammlung auflösen.
 2. Wird mit der Auflösung des Vereins nur eine Änderung der Rechtsform oder eine Verschmelzung mit einem gleichartigen, anderen Verein angestrebt, so dass die unmittelbare, ausschließliche Verfolgung des bisherigen Vereinszwecks durch den neuen Rechtsträger weiterhin gewährleistet wird, geht das Vereinsvermögen auf den neuen Rechtsträger über. Vor Durchführung ist das Finanzamt hierzu zu hören.
-3. Bei der Auflösung des Vereins fällt das Vermögen an den Berliner Tafel e.V., der es unmittelbar und ausschließlich für gemeinnützige Zwecke zu verwenden hat.
+3. Bei der Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen an den Berliner Tafel e.V., der es unmittelbar und ausschließlich für gemeinnützige Zwecke zu verwenden hat.
 4. Ist wegen Auflösung des Vereins oder Entziehung der Rechtsfähigkeit die Liquidation des Vereinsvermögens erforderlich, so sind die zu diesem Zeitpunkt im Amt befindlichen Vereinsvorsitzenden die Liquidatoren; es sei denn, die Mitgliederversammlung beschließt auf einer ordnungsgemäß einberufenen Mitgliederversammlung über die Einsetzung eines anderen Liquidators mit 2/3-Mehrheit der anwesenden stimmberechtigten Mitglieder.
